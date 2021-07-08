@@ -5,4 +5,4 @@
 My subtitle file library (including modifications)
 优先在gitee上传
 Upload in gitee first
-github:(链接/link)[https://github.com/Little-Data/My-subtitle]
+github:[链接/link](https://github.com/Little-Data/My-subtitle)
