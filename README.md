@@ -1,8 +1,4 @@
 # My-subtitle
 
 #### 介绍
-我的字幕文件库（包括修改）
-My subtitle file library (including modifications)
-优先在gitee上传
-Upload in gitee first
-github:[链接/link](https://github.com/Little-Data/My-subtitle)
+我的字幕文件库（包括修改）<br>My subtitle file library (including modifications)<br>优先在gitee上传<br>Upload in gitee first<br>github:[链接/link](https://github.com/Little-Data/My-subtitle)
