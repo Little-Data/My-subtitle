@@ -2,4 +2,4 @@
 相关联的视频：This PC CAN run Windows 11
 SHA-1校验:6F840234F827AD927A142D919A59B9CC00D8D1FC
 类型：自制
-所用字体文件：思源黑体 CN（思源黑体 CN中等，SourceHanSansCN-Medium.otf）
+所用字体文件：思源黑体 CN（思源黑体 CN中等，SourceHanSansCN-Medium.otf）在萤火之森文件夹里
