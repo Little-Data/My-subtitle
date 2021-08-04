@@ -9,3 +9,6 @@ https://github.com/Bourshevik0/subtitle_works
 -
 SweetSub（B站发布账号：3951826）
 https://github.com/SweetSub/SweetSub
+-
+喵萌奶茶屋
+https://github.com/Nekomoekissaten/Nekomoekissaten-Subs
