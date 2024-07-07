@@ -1,6 +1,9 @@
 # My-subtitle
 #### 由于github在国内经常无法访问，在[gitee](https://gitee.com/little-data/my-subtitle)也在更新。当然，这个库我也会时不时更新
 **2022.07.13:去他的Gitee，连字幕库都能是违规！**
+
+**2024.07.07  好久不见！正在处理该页面中······**
+
 #### 介绍
 我的字幕文件库（包括修改）
 <br>My subtitle file library (including modifications)
