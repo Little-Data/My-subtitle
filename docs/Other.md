@@ -1,5 +1,13 @@
 # 其它|Other
 
+## sola广播剧 ～イツカノソラ～（绝版）
+
+[01.キミトノヤクソク（和你的约定）](https://github.com/Little-Data/my-subtitle/blob/master/Other/sola广播剧%20～イツカノソラ～/01.キミトノヤクソク.ass)
+
+[03.ウンメイノカゲ（命运之影）](https://github.com/Little-Data/my-subtitle/blob/master/Other/sola广播剧%20～イツカノソラ～/03.ウンメイノカゲ.ass)
+
+[04.アメトヌイグルミ（爱与布偶）](https://github.com/Little-Data/my-subtitle/blob/master/Other/sola广播剧%20～イツカノソラ～/04.アメトヌイグルミ.ass)
+
 ## 话痨弗里曼
 
 [话痨弗里曼ep1中文](https://github.com/Little-Data/my-subtitle/blob/master/Other/话痨弗里曼/话痨弗里曼ep1中文.srt)
@@ -8,7 +16,7 @@
 
 ## 旧的
 
-```` text
+```text
 
 │  lovelive！superstar！！ED场景.ass
 │  Portal 1 Cut Content - Xen Ending _ Chell in Xen (ft. Ossy Flawol).ass
@@ -43,6 +51,6 @@
     └─梦开始的地方：与渚相遇的坡道
             info.TXT
             【1080】CLANNAD 聖地巡礼 Part3 _ Tokyo _ Mizuho View Park【4K】.ass
-````
+```
 
 [文件列表](https://github.com/Little-Data/my-subtitle/tree/master/Other)
