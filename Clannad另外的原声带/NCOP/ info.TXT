@@ -1,6 +1,0 @@
-文件：ncop.ass
-相关联的歌曲：メグメル
-SHA-1校验：353D3BADECB78124A1BBC134F24D65F02E1E5A5E
-类型：歌词文件改字幕
-所用字体文件：A-OTF Ryumin Pr6N B-KL（A-OTF Ryumin Pr6N B-KL 半粗体，A-OTF Ryumin Pr6N B-KL.otf）
-思源宋体 CN（思源宋体 CN粗体，思源宋体 CN Bold.otf）
