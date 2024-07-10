@@ -1,12 +1,26 @@
 # 其它|Other
 
+## sola广播剧 Prologue of sola
+
+[Prologue of sola](https://github.com/Little-Data/my-subtitle/blob/master/Other/Prologue%20of%20sola.srt)
+
 ## sola广播剧 ～イツカノソラ～（绝版）
 
 [01.キミトノヤクソク（和你的约定）](https://github.com/Little-Data/my-subtitle/blob/master/Other/sola广播剧%20～イツカノソラ～/01.キミトノヤクソク.ass)
 
+[02.ヒカリノナカヘ（向光所在）](https://github.com/Little-Data/my-subtitle/blob/master/Other/sola广播剧%20～イツカノソラ～/02.ヒカリノナカヘ.ass)
+
 [03.ウンメイノカゲ（命运之影）](https://github.com/Little-Data/my-subtitle/blob/master/Other/sola广播剧%20～イツカノソラ～/03.ウンメイノカゲ.ass)
 
 [04.アメトヌイグルミ（爱与布偶）](https://github.com/Little-Data/my-subtitle/blob/master/Other/sola广播剧%20～イツカノソラ～/04.アメトヌイグルミ.ass)
+
+[05.サイカイノトキ（再会之时）](https://github.com/Little-Data/my-subtitle/blob/master/Other/sola广播剧%20～イツカノソラ～/05.サイカイノトキ.ass)
+
+[06.サビシサノハテニ（在悲伤的羽翼下）](https://github.com/Little-Data/my-subtitle/blob/master/Other/sola广播剧%20～イツカノソラ～/06.サビシサノハテニ.ass)
+
+[07.イツカノソラ（那时的天空）](https://github.com/Little-Data/my-subtitle/blob/master/Other/sola广播剧%20～イツカノソラ～/07.イツカノソラ.ass)
+
+[08.bonus track バイトヲシヨウ（去打工吧）](https://github.com/Little-Data/my-subtitle/blob/master/Other/sola广播剧%20～イツカノソラ～/08.bonus%20track%20バイトヲシヨウ.ass)
 
 ## 话痨弗里曼
 
@@ -54,3 +68,5 @@
 ```
 
 [文件列表](https://github.com/Little-Data/my-subtitle/tree/master/Other)
+
+

@@ -11,13 +11,13 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: 04.アメトヌイグルミ.wav
+Audio File: ../04.アメトヌイグルミ.wav
 Video File: ?dummy:24000/1001:40000:1920:1080:47:163:254:c
 Video AR Value: 1.777778
 Video Zoom Percent: 0.312500
-Scroll Position: 131
-Active Line: 131
-Video Position: 12300
+Scroll Position: 50
+Active Line: 54
+Video Position: 5072
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -81,7 +81,7 @@ Dialogue: 0,0:03:13.47,0:03:15.30,中2,,0,0,0,,依人：那家伙到底怎么了
 Dialogue: 0,0:03:15.68,0:03:18.36,中2,,0,0,0,,塔子：喂喂，真名也够辛苦的了
 Dialogue: 0,0:03:24.94,0:03:25.54,中2,,0,0,0,,再见\N（翻译文本未提供）
 Dialogue: 0,0:03:25.80,0:03:26.47,中2,,0,0,0,,回头见\N（翻译文本未提供）
-Dialogue: 0,0:03:26.63,0:03:28.83,中2,,0,0,0,,（翻译文本未提供）
+Dialogue: 0,0:03:26.63,0:03:28.83,中2,,0,0,0,,呐呐，回家后听CD吧？\N（翻译文本未提供）
 Dialogue: 0,0:03:30.07,0:03:31.61,中2,,0,0,0,,小依：啊，依人哥
 Dialogue: 0,0:03:32.57,0:03:34.97,中2,,0,0,0,,依人：小依啊。在等我呀
 Dialogue: 0,0:03:35.01,0:03:40.99,中2,,0,0,0,,小依：嗯，今天学校提前放学，所以想和你们一起去医院
