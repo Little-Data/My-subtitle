@@ -4,11 +4,7 @@
 
 **2020年，我开始保存我的字幕（包括修改）。多年过去了，在2024年我决定重新整理一下我的字幕库。**
 
-增加了[Docsify](https://docsify.js.org)文档页面，更好的展示。
-
 Gitee仓库停止更新，它的文件在[这里](https://gitee.com/little-data/my-subtitle)。
-
-**使用[My-subtitle文档页](https://little-data.github.io/my-subtitle)更方便。**
 
 ## 说明
 
@@ -18,7 +14,7 @@ Gitee仓库停止更新，它的文件在[这里](https://gitee.com/little-data/
 
 ## 日志
 
-2024.07.08Gitee仓库停止更新，增加Docsify文档页面。
+2024.07.08Gitee仓库停止更新。
 
 2022.07.13去他的Gitee，连字幕库都能是违规！
 
